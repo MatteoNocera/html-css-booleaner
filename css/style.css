@@ -52,6 +52,11 @@ table {
     border-spacing: 0;
     
 }
+
+td {
+    min-width: 300px;
+}
+
 thead {
     background-color: rgb(32, 169, 229);
     color: white;
