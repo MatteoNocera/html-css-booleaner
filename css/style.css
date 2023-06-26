@@ -71,9 +71,24 @@ span {
     background-color: yellow;
 }
 
-.final {
+.interest {
     color: gray;
-    margin-top: 20px;
+}
+
+.container {
+    position: relative;
+}
+.final {
+    margin-top: 10px;
+    position: relative;
+}
+
+.text-block {
+    color: white;
+    position: absolute;
+    left: 10px;
+    top: 10px;
+
 }
 
 /* footer {
