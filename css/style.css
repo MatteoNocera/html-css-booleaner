@@ -5,5 +5,16 @@
 }
 
 header {
-    background-color: lightblue;
+    height: 180px;
+    background-color: rgb(40, 124, 234);
+    background-image: url(/img/pattern.png);
+    background-attachment: fixed;
+    background-size: auto;
+    position: relative; 
+}
+header img {
+    height: 70px;
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
 }
