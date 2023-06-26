@@ -29,7 +29,7 @@ main {
     max-width: 1200px;
 }
 
-a:link {
+a {
     text-decoration: none;
     font-weight: bold;
     color: rgb(32, 169, 229);
