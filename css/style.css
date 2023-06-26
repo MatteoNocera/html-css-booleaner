@@ -48,16 +48,24 @@ ul {
 
 table {
     width: 100%;
+    border-spacing: 0;
+    
 }
 thead {
     background-color: rgb(32, 169, 229);
     color: white;
+    
 
 }
-tbody {
+.blue-row {
     background-color: rgb(177, 229, 242);
+    
 }
 
-.second-row {
+.white-row {
     background-color: white;
+}
+
+span {
+    background-color: yellow;
 }
