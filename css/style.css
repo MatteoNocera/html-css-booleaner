@@ -70,3 +70,14 @@ thead {
 span {
     background-color: yellow;
 }
+
+.final {
+    color: gray;
+    margin-top: 20px;
+}
+
+/* footer {
+    text-align: center;
+    text-decoration: solid;
+    color: rgb(32, 169, 229);
+} */
