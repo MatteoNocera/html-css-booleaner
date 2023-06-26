@@ -18,3 +18,22 @@ header img {
     bottom: 10px;
     left: 10px;
 }
+
+h1 {
+    font-size: 40px;
+}
+
+main {
+    padding-top: 20px;
+    padding-left: 10px;
+    max-width: 1200px;
+}
+
+a:link {
+    text-decoration: none;
+    font-weight: bold;
+}
+.photo {
+    margin-top: 20px;
+
+}
